@@ -13,21 +13,23 @@ header {
   text-align: center;
 }
 
-footer {
-  padding: 1em;
-  color: white;
-  background-color: black;
-  clear: left;
-  text-align: center;
+div.Copyright{
+  background-color: gray;
+  height: 10%;
+  position: relative;
+  top: 175px;
 }
 
-footer.abc {
-  height: 200px
-  padding: 1em;
-  color: white;
-  background-color: red;
-  clear: left;
+p.Copyright{
   text-align: center;
+  position: relative;
+ }
+
+footer{
+  height: 200px;
+  color: white;
+  background-color: black;
+  
 }
 
 .navbar {
