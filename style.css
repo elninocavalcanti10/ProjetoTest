@@ -21,6 +21,15 @@ footer {
   text-align: center;
 }
 
+footer.abc {
+  height: 200px
+  padding: 1em;
+  color: white;
+  background-color: red;
+  clear: left;
+  text-align: center;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #333;
